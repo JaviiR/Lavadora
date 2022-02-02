@@ -8,7 +8,7 @@ public class Lavadora_Uno {
         Scanner entrada=new Scanner(System.in);
         System.out.println("La ropa es blanca o de color?");
         System.out.println("1: Ropa Blanca");
-        System.out.println("2: Ropa De Color");
+        System.out.println("2: Ropa De Colors");
         int TipoDeRopa=entrada.nextInt();
         
         System.out.println("Cuantos kilos de ropa?");
